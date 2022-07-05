@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="FirstJoinItems">
+    <output-path>$USER_HOME$/Desktop/Teste isolado/plugins</output-path>
+    <root id="archive" name="FirstJoinItems.jar">
+      <element id="module-output" name="FirstJoinItems" />
+    </root>
+  </artifact>
+</component>

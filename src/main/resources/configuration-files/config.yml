@@ -1,0 +1,21 @@
+Settings:
+  command: firstjoinitems
+  aliases: []
+  permission: firstjoinitems.admin
+  permission-message: '&cVocê não possui permissão para executar esse comando!'
+
+Messages:
+  command-usage:
+    - ''
+    - '&cComandos disponíveis:'
+    - ''
+    - ' &c/firstjoinitems set - Definir o inventário inicial'
+    - ' &c/firstjoinitems pickup - Pegar o inventário inicial'
+    - ' &c/firstjoinitems send <jogador> - Enviar o inventário inicial a um jogador'
+    - ' &c/firstjoinitems reset - Resetar o inventário inicial'
+    - ''
+  successful-set: '&aOs itens iniciais foram definidos com sucesso!'
+  successful-pickup: '&aOs itens iniciais foram enviados para o seu inventário!'
+  successful-send: '&aOs itens iniciais foram enviados para o inventário de {player}!'
+  successful-reset: '&cOs itens iniciais foram resetados com sucesso!'
+  offline-player: '&cEsse jogador está offline!'
